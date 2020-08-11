@@ -1,0 +1,3 @@
+function androidNavigateToFirstScreen() {
+  Android.navigateToFirstScreen();
+}
